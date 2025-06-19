@@ -1,0 +1,7 @@
+id = "v-theme"
+name = "V Theme"
+version = "0.0.1"
+schema_version = 2
+authors = ["necm1 <necmi.m.hasan@outlook.de>"]
+description = "Simple dark theme & high contrast"
+repository = "https://github.com/necm1/v-zed-theme"
